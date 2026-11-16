@@ -27,9 +27,16 @@
 - GitHub
 
 ## Author
+
+## Remote Update Practice
+
+This change was made directly on GitHub
+to practice git pull.
 3bdulaziz503
 
 ## Git and GitHub Learning
 
 This project is also used to practice Git and GitHub.
 Topics include status, add, commit, push, and pull.
+
+Add remote update practice section

@@ -11,7 +11,6 @@
 - Practical Data Analysis Projects
 
 ## Project Structure
-
 - 01-Basics
 - 02-Data-Structures
 - 03-Data-Frames
@@ -26,17 +25,18 @@
 - Git
 - GitHub
 
-## Author
+## Git and GitHub Learning
+
+This project is also used to practice Git and GitHub.
+
+Topics include status, add, commit, push, pull, and fetch.
 
 ## Remote Update Practice
 
 This change was made directly on GitHub
+
 to practice git pull.
+
+## Author
+
 3bdulaziz503
-
-## Git and GitHub Learning
-
-This project is also used to practice Git and GitHub.
-Topics include status, add, commit, push, and pull.
-
-Add remote update practice section

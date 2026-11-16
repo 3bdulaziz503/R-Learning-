@@ -28,3 +28,8 @@
 
 ## Author
 3bdulaziz503
+
+## Git and GitHub Learning
+
+This project is also used to practice Git and GitHub.
+Topics include status, add, commit, push, and pull.
